@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: popinB;
+  src: url(./src/assets/fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+  font-family: popinSB;
+  src: url(./src/assets/fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: popin-EB;
+  src: url(./src/assets/fonts/Poppins-ExtraBold.ttf);
+}
+
+@media (max-width: 480px) {
+  .RightBox {
+    background-color: blue;
+    display: none;
+  }
+
+}
