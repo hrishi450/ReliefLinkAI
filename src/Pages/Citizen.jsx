@@ -11,7 +11,7 @@ const Citizen = () => {
         <div>
             <CitizenLogin />
             <CitizenRegister />
-            <CitizenDashboard />
+
         </div>
     )
 };

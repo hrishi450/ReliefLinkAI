@@ -15,7 +15,7 @@ import Page3 from './Pages/Page3';
 import Report from './componet/Report'
 import VolunteerLogin from './componet/VolunteerLogin';
 import VolunteerRegister from './componet/VolunteerRegistration';
-import CitizenDashboard from './componet/CItizenDashboard';
+import CitizenDashboard from "./componet/CitizenDashboard";
 import NGODashboard from './componet/NGODashboard';
 import VolunteerDashboard from './componet/VolunteerDashboard';
 import Page4 from './Pages/Page4';
